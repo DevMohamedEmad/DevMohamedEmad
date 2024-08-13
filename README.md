@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi I am Mohamed Emad
 
-<!--
-**DevMohamedEmad/DevMohamedEmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :school: Faculty of science , Computer science department 
+- 🔭 I’m currently working on Qurtoba Solutions Company
+- 🌱 I’m currently learning Web Development tools
+- ✉️  You can contact me at mohamedemad0592@gmail.com
+- ⚡ Experience : 1~2
+- 🌍  I'm based in Egypt Alexandria
+
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,jquery,php,mysql,laravel,graphql,github&perline=5)](https://skillicons.dev)
+
