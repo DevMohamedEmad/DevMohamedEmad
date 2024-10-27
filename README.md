@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Web Development tools
 - ✉️  You can contact me at mohamedemad0592@gmail.com
 - ⚡ Experience : 1~2
-- 🌍  I'm based in Egypt Alexandria
+- 🌍  I'm based in Alexandria, Egypt 
 
 
 ### Skills
